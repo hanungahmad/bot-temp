@@ -1,13 +1,13 @@
 <div align="center">
 
-# AEX-BOT WHATSAPP
-[![CodeFactor](https://www.codefactor.io/repository/github/ibnusyawall/aex-bot/badge/master)](https://www.codefactor.io/repository/github/ibnusyawall/aex-bot/overview/master)
+# TEMPLATE BOT
+
 <details>
  <summary>Help me!</summary>
 
- [Saweria](https://saweria.co/donate/ibnusyawall)
+ [Saweria]:https://saweria.co/HanungDonasi
 
- [Paypal.me](https://paypal.me/syawal24)
+ [Paypal.me]:nope
 
 </details>
 </div>
@@ -22,8 +22,8 @@
 
 ```sh
 $ git clone https://github.com/ibnusyawall/aex-bot.git
-$ cd aex-bot
-$ npm i
+$ cd template
+$ npm install
 $ npm start
 ```
 
